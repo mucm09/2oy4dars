@@ -1,0 +1,46 @@
+.siteheader{
+  border-radius: 10px;
+background-color: #0A121F;
+height: 80px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+position: fixed;
+width: 1365px;
+}
+.siteheader__logo{
+  margin-left: 75px;
+  flex-shrink: 0;
+  width: 283.09px;
+  height: 57px;
+}
+.siteheader__list{
+  width: 400px;
+  display: flex;
+   justify-content: space-between;
+}
+.siteheader__items{
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.items-link{
+  color: bisque;
+}
+.siteheader__btn{
+  padding:10px 20px;
+  border: none;
+  border-radius: 5px;
+background: rgb(58, 104, 184);
+color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+margin-right: 100px;
+}

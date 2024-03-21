@@ -1,0 +1,79 @@
+.platform{
+  padding-top: 80px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.platform__content{
+  margin-top: 160px;
+  margin-left: 20px;
+  margin-right: 80px;
+}
+.platform__text{
+  color: rgb(58, 104, 184);
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 160%;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+color: rgb(58, 104, 184);
+margin-bottom: 10px;
+}
+.platform__title{
+color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 55px;
+font-weight: 800;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 40px;
+}
+.platform__text2{
+  color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 160%;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-bottom: 50px;
+}
+.platform__btn{
+  color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 5px;
+background: rgb(58, 104, 184);
+padding: 15px 30px;
+border: none;
+margin-right: 20px;
+}
+.platform__img{
+  margin-right: 10px;
+  margin-top: 70px;
+  width: 500px;
+  height: 502px;
+}
+.platform__btn__img{
+  width: 22px;
+  padding-top: 4px;
+  height: 21px;
+  margin-right: 10px;
+}
+.platform__logo{
+  display: flex;
+  align-items: center;
+  width: 200px;
+}
+.platform__logoimg{
+margin-right: 60px;
+margin-bottom: 60px;
+}
